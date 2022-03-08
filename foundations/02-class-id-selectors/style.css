@@ -1,0 +1,22 @@
+.oddnumber {
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family:sans-serif;
+    font-size: 28px;
+}
+
+#number2 {
+    color: rgb(0, 0, 255);
+    font-family:sans-serif;
+    font-size: 48px;
+}
+
+.oddnumber.number3 {
+    font-size: 38px;
+}
+
+#number4 {
+    font-weight: bold;
+    background-color: rgba(0, 255, 0, 0.8);
+    font-size: 38px;
+    font-family: sans-serif;
+}
